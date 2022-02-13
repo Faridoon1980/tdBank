@@ -1,6 +1,10 @@
 This is student info
 Today is Feb 11, 2022
 Today is friday.
+<<<<<<< HEAD
 February 14 will be tomorow
 Tomorrow is monday
 
+=======
+February 14 will be tomorrow
+>>>>>>> refs/remotes/origin/Zabi
