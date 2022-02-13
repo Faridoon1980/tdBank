@@ -1,2 +1,7 @@
 Teacher info are saved
+<<<<<<< HEAD
 the kurs in java
+=======
+I (Nabi) made this change
+>>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
+ich bin Graz
