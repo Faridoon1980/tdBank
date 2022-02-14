@@ -1,3 +1,15 @@
 Teacher info are saved
+<<<<<<< HEAD
 I (Nabi) made this change
 Faridoon Noori USA.
+=======
+<<<<<<< HEAD
+the kurs in java
+=======
+I (Nabi) made this change
+>>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
+ich bin Graz
+bist du we
+"Hello guys!(Nabi)"
+heloo this is afshar
+>>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
