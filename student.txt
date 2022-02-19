@@ -14,5 +14,10 @@ February 14 will be tomorrow
 >>>>>>> refs/remotes/origin/Zabi
 =======
 >>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
+<<<<<<< HEAD
 Nabi is editing
 >>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
+=======
+
+new change
+>>>>>>> origin/af1
