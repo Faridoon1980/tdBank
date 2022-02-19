@@ -7,9 +7,14 @@ Faridoon Noori USA.
 the kurs in java
 =======
 I (Nabi) made this change
->>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
+
 ich bin Graz
 bist du we
 "Hello guys!(Nabi)"
 heloo this is afshar
->>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
+
+Extra info needs to learn in git
+Here are the place that we sharing pro with othar 
+Java Advance will be with Spring framework
+UMASS is one of the best university
+
