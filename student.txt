@@ -19,11 +19,17 @@ new change
 >>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nabi is editing
 >>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
 =======
 Nabi is acting
 >>>>>>> Nabi1
+=======
+Nabi is acting
+Nabi: Feb 18
+>>>>>>> Nabi2
+>>>>>>> 2a515cfc8b8940d2e56aa392f946678588fd26cd
 =======
 Nabi is acting
 Nabi: Feb 18
