@@ -2,8 +2,10 @@ Teacher info are saved
 
 I (Nabi) made this change
 Faridoon Noori USA.
+
 the kurs in java
 
+the kurs in java
 I (Nabi) made this change
 
 ich bin Graz
@@ -15,6 +17,7 @@ Extra info needs to learn in git
 Here are the place that we sharing pro with othar 
 Java Advance will be with Spring framework
 UMASS is one of the best university
+
 BU is one of the best university in the world
 
 the kurs in java
@@ -23,3 +26,5 @@ ich bin Graz
 bist du we
 
 Nabi2 merge to main
+Harvad is the best university in the world
+
