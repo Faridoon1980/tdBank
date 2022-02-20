@@ -5,6 +5,7 @@ today is feb 11, 2022
 Today is friday.
 
 February 14 will be tomorow
+<<<<<<< HEAD
 Tomorrow is monday
 
 February 14 will be tomorrow
@@ -14,3 +15,8 @@ We wll have mre stdent n the class
 Today is Febraury 18
 
 new change
+=======
+>>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
+Nabi is acting
+Nabi: Feb 18
+>>>>>>> Nabi2

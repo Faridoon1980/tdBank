@@ -1,4 +1,5 @@
 Teacher info are saved
+<<<<<<< HEAD
 I (Nabi) made this change
 Faridoon Noori USA.
 the kurs in java
@@ -21,3 +22,11 @@ Java Advance will be with Spring framework
 UMASS is one of the best university
 
 >>>>>>> 1afcd8866417ff978e5fafa3e32292c9b5335c6a
+=======
+the kurs in java
+I (Nabi) made this change
+ich bin Graz
+bist du we
+
+Nabi2 merge to main
+>>>>>>> Nabi2
