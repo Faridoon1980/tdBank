@@ -13,6 +13,7 @@ ich bin Graz
 bist du we
 "Hello guys!(Nabi)"
 heloo this is afshar
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -30,3 +31,7 @@ bist du we
 
 Nabi2 merge to main
 >>>>>>> Nabi2
+=======
+>>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
+Hello everyone
+>>>>>>> origin/Mahdi
