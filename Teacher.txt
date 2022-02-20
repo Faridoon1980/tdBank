@@ -1,31 +1,44 @@
 Teacher info are saved
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/ali1
 I (Nabi) made this change
 Faridoon Noori USA.
 
 the kurs in java
+<<<<<<< HEAD
 
 the kurs in java
 I (Nabi) made this change
 
+=======
+I (Nabi) made this change
+>>>>>>> origin/ali1
 ich bin Graz
 bist du we
 "Hello guys!(Nabi)"
 heloo this is afshar
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/ali1
 Extra info needs to learn in git
 Here are the place that we sharing pro with othar 
 Java Advance will be with Spring framework
 UMASS is one of the best university
+<<<<<<< HEAD
 
 BU is one of the best university in the world
 
+=======
+>>>>>>> origin/ali1
 the kurs in java
 I (Nabi) made this change
 ich bin Graz
 bist du we
-
 Nabi2 merge to main
+<<<<<<< HEAD
 <<<<<<< HEAD
 Harvad is the best university in the world
 Teacher Salary is $10000 per month.
@@ -33,5 +46,8 @@ Teacher House and Car and bicycle
 
 =======
 >>>>>>> Nabi2
+reza is buying
+>>>>>>> origin/ali1
+=======
 reza is buying
 >>>>>>> origin/ali1
