@@ -1,33 +1,19 @@
 Teacher info are saved
-<<<<<<< HEAD
 I (Nabi) made this change
 Faridoon Noori USA.
 the kurs in java
-
 I (Nabi) made this change
-<<<<<<< HEAD
-=======
-
->>>>>>> 1afcd8866417ff978e5fafa3e32292c9b5335c6a
 ich bin Graz
 bist du we
 "Hello guys!(Nabi)"
 heloo this is afshar
-
-<<<<<<< HEAD
-=======
 Extra info needs to learn in git
 Here are the place that we sharing pro with othar 
 Java Advance will be with Spring framework
 UMASS is one of the best university
-
->>>>>>> 1afcd8866417ff978e5fafa3e32292c9b5335c6a
-=======
 the kurs in java
 I (Nabi) made this change
 ich bin Graz
 bist du we
-
 Nabi2 merge to main
->>>>>>> Nabi2
 reza is buying
