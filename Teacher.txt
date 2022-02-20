@@ -42,7 +42,7 @@ Nabi2 merge to main
 <<<<<<< HEAD
 Harvad is the best university in the world
 Teacher Salary is $10000 per month.
-Teacher House and Car and bicycle
+Teacher House and Car and bicycle and family
 
 =======
 >>>>>>> Nabi2
