@@ -1,37 +1,65 @@
 Teacher info are saved
 <<<<<<< HEAD
+
+=======
+>>>>>>> origin/ali1
 I (Nabi) made this change
 Faridoon Noori USA.
+
 the kurs in java
-
-I (Nabi) made this change
 <<<<<<< HEAD
-=======
 
->>>>>>> 1afcd8866417ff978e5fafa3e32292c9b5335c6a
+the kurs in java
+I (Nabi) made this change
+
+=======
+I (Nabi) made this change
+>>>>>>> origin/ali1
 ich bin Graz
 bist du we
 "Hello guys!(Nabi)"
 heloo this is afshar
 <<<<<<< HEAD
-
 <<<<<<< HEAD
+
 =======
+>>>>>>> 0b1526810e72adfcea52c101a30ea713b13bc63b
+<<<<<<< HEAD
+
+=======
+>>>>>>> origin/ali1
 Extra info needs to learn in git
 Here are the place that we sharing pro with othar 
 Java Advance will be with Spring framework
 UMASS is one of the best university
+<<<<<<< HEAD
 
->>>>>>> 1afcd8866417ff978e5fafa3e32292c9b5335c6a
+BU is one of the best university in the world
+
 =======
+>>>>>>> origin/ali1
 the kurs in java
 I (Nabi) made this change
 ich bin Graz
 bist du we
-
 Nabi2 merge to main
+<<<<<<< HEAD
+<<<<<<< HEAD
+Harvad is the best university in the world
+Teacher Salary is $10000 per month.
+Teacher House and Car and bicycle and family
+
+=======
 >>>>>>> Nabi2
+<<<<<<< HEAD
 =======
 >>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
 Hello everyone
 >>>>>>> origin/Mahdi
+=======
+reza is buying
+>>>>>>> origin/ali1
+=======
+reza is buying
+>>>>>>> origin/ali1
+>>>>>>> 0b1526810e72adfcea52c101a30ea713b13bc63b
