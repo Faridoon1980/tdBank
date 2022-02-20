@@ -1,22 +1,31 @@
 This is student info
 Today is Feb 11, 2022
-<<<<<<< HEAD
+
 today is feb 11, 2022
-=======
 Today is friday.
-<<<<<<< HEAD
+
 February 14 will be tomorow
 <<<<<<< HEAD
 Tomorrow is monday
 
-=======
 February 14 will be tomorrow
->>>>>>> refs/remotes/origin/Zabi
+Nabi is editing
+
+We wll have mre stdent n the class
+Today is Febraury 18
+
+new change
 =======
 >>>>>>> 1b3f60d2d4650552f75b2e39c70495215e17684c
+<<<<<<< HEAD
 <<<<<<< HEAD
 Nabi is editing
 >>>>>>> baff6f8470c2813891ecdd87c3eefef2089c9fe0
 =======
 Nabi is acting
 >>>>>>> Nabi1
+=======
+Nabi is acting
+Nabi: Feb 18
+>>>>>>> Nabi2
+>>>>>>> 2a515cfc8b8940d2e56aa392f946678588fd26cd
